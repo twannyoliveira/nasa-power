@@ -14,3 +14,7 @@ A ideia original de capturar dados climáticos através da API da NASA POWER foi
 ## Verifique também:
 - [NASA POWER](https://power.larc.nasa.gov)
 - [Metodologia da NASA POWER](https://power.larc.nasa.gov/methodology/)
+
+## Co-autoria
+Co-authored-by: Twanny Emmanuelly Gomes de Oliveira <twanny.oliveira@gmail.com> ORCID: 0000-0002-3000-5828
+Co-authored-by: Thais Gabriela Veras Gama <thveras@gmail.com> ORCID: 0009-0001-9168-6479
