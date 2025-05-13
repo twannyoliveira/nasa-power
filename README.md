@@ -1,9 +1,11 @@
 # Captura de Dados Climáticos via NASA POWER API
 
-Este repositório contém um código desenvolvido para capturar dados climáticos a partir da API da NASA POWER para todos os municípios brasileiros. O código foi baseado no artigo:
+Este repositório contém um código desenvolvido para capturar dados climáticos a partir da API da NASA POWER para todos os municípios brasileiros. O código foi baseado em:
 
 **Título**: "Data-driven Environmental Health: A Global Dataset on Climate and Health Risk"  
 **DOI**: [10.21105/joss.01035](https://doi.org/10.21105/joss.01035)
+
+**Package**: "nasapower"
 
 ## Licença
 Este código é distribuído sob a [MIT License](LICENSE).
